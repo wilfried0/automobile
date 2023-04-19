@@ -24,4 +24,6 @@ public class Voiture implements Serializable {
 
     @Enumerated
     private ModeleEnum modeleEnum;
+
+    private int nbrePortiere;
 }

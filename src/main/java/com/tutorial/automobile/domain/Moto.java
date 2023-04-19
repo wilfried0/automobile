@@ -25,4 +25,6 @@ public class Moto implements Serializable {
 
     @Enumerated
     private ModeleEnum modeleEnum;
+
+    private Double tailleRoue;
 }
